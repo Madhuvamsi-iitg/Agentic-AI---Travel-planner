@@ -1,0 +1,6 @@
+agno
+python-dotenv
+streamlit
+serpapi
+google-search-results
+google-genai
